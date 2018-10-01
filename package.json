@@ -1,0 +1,15 @@
+{
+  "name": "event-emitter-class",
+  "version": "0.0.0",
+  "main": "./index.js",
+  "scripts": {
+    "test": "node tests"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "tape": "4.9.1"
+  }
+}
